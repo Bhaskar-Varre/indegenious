@@ -1,0 +1,58 @@
+.toggle{
+    color: #4c504c;
+}
+
+
+#ac1{
+    margin-left: auto;
+}
+h2{
+    margin-right: auto;
+   
+}
+.cards{
+    border-radius: 5px;
+    text-align: start;
+    margin: auto;
+    border: 3px solid rgb(255, 255, 255);
+    box-shadow: #bbc4c1c9 -3px 5px;
+    margin: 10px;
+    padding: 20px 20px 20px 20px;
+}
+.centerbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-Content: center;
+}
+.br{
+    border-radius: 50px;
+}
+.MuiButtonBase-root{
+    border-radius: 50px;
+}
+#cardst{
+    display: flex;
+    justify-content: space-between;
+}
+.bt3{
+    display: flex;
+    justify-content: flex-end;
+}
+label{
+    font-family: 'Work Sans';
+    font-weight: bold;
+    font-size: 16px;
+    color: #7bd275;
+    text-decoration: none;
+}
+#bookmark{
+    justify-content:flex-end;
+     display:flex ;
+    align-items: flex-end
+}
+#back1{
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}

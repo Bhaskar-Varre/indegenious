@@ -1,0 +1,16 @@
+.navbar {
+  
+    background-color: white;
+    
+    color: #0f6909;
+    padding: 10px 0;
+   margin-left: 10px;
+    
+}
+.navbar a {
+    font-family: 'Work Sans';
+    font-weight: bold;
+    font-size: 18px;
+    color: #7bd275;
+    text-decoration: none;
+}
